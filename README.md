@@ -30,3 +30,11 @@ A collection of UI automation tests created with Cypress and JavaScript.
 
 Repository:
 https://github.com/somovAleksandr/cypress-automation-tasks
+
+## 🎯 Current Focus
+
+- Writing UI automation tests with Cypress
+- Improving JavaScript skills
+- Learning Playwright
+- Practicing API testing
+- Building my QA Automation portfolio
