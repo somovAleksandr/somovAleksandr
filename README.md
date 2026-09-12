@@ -21,3 +21,12 @@ Email: aleks.somov.aqa@gmail.com
 LinkedIn: https://www.linkedin.com/in/aleksandr-somov-186681426/
 
 GitHub: https://github.com/somovAleksandr
+
+## 🚀 Featured Project
+
+### Cypress Automation Tasks
+
+A collection of UI automation tests created with Cypress and JavaScript.
+
+Repository:
+https://github.com/somovAleksandr/cypress-automation-tasks
