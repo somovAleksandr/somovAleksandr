@@ -13,3 +13,11 @@ Currently focused on QA Automation with Cypress and Playwright.
 - GitHub
 - Postman
 - Charles Proxy
+
+## 📫 Contact
+
+Email: aleks.somov.aqa@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/aleksandr-somov-186681426/
+
+GitHub: https://github.com/somovAleksandr
